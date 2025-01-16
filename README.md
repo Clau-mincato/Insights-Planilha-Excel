@@ -47,3 +47,5 @@ Decisões Informadas:
 Resultados e insights prontos para auxiliar na identificação de boas práticas e áreas de melhoria entre as unidades.
 
 Grafico Gerado por IA[Grafico_Produção_Media_Insights](https://github.com/user-attachments/assets/bdcc6956-7679-49ca-a5ff-6aad8a7e307f)
+Planilha Depurada por IA: ![Dados_Novembro_Filtrados](https://github.com/user-attachments/assets/bd93da59-cdc2-4091-ad96-81324b271f39)
+Planilha Original: ![Planilha Original](https://github.com/user-attachments/assets/6ae01ba7-d54d-4510-b632-14b11f15cc6d)
